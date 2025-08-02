@@ -33,7 +33,7 @@ A place where you can cosplay as a SysAdmin. ***"The Dream"*** place of a person
 
 Now to to cut that drama, do you:
 
-Want to know how a what's a server and how it works? 
+Want to know what a server is and how it works?
 Want to make your own Website? 
 Want to have your own Netflix to share with friends/family? 
 Have your own Jarvis like Iron Man? 
