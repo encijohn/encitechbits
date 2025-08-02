@@ -1,6 +1,7 @@
 ```bash
 $whoami
 ```
+### Henlo! 👋
 
 I'm John Clifford Cariño, a tech enthusiast and an aspiring DevOps Engineer. 
 
