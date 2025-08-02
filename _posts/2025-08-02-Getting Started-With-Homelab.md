@@ -5,7 +5,7 @@ categories:
   - Blog
 tags:
   - homelab
-header: "{\"image\":\"/assets/img/header/Getting Started-With-Homelab.png\"'}"
+header: "{\"image\":\"/assets/img/header/Getting Started-With-Homelab.png\"}"
 text: "*It looks janky, but it works!*"
 ---
 # What is this?
