@@ -1,11 +1,13 @@
 ---
-title: Getting Started With Homelab!
+title: "Getting Started With Homelab!"
 date: 2025-08-02 09:00:00 +0800
 categories:
   - Blog
 tags:
   - homelab
-header: "{\"image\":\"/assets/img/header/Getting Started-With-Homelab.png\"}"
+image:
+  path: /assets/img/header/Getting-Started-With-Homelab.png
+  alt: Getting Started With Homelab
 text: "*It looks janky, but it works!*"
 ---
 # What is this?
