@@ -1,63 +1,79 @@
 ---
 title: "Getting Started With Homelab!"
 date: 2025-08-02 09:00:00 +0800
-categories:
-  - Blog
-tags:
-  - homelab
+categories: [Blog]
+tags: [homelab]
 image:
   path: /assets/img/header/Getting-Started-With-Homelab.png
   alt: Getting Started With Homelab
 ---
+
 # What is this?
-*This will be my personal guide / journey to **"Homelabbing".*** 
 
-As a person whose been having fun and working in tech for over a decade now, nothing annoys me much more than unclear documentation or not having a clear resolution path. Here, I will jot down ideas and principles that I will implement with my own personal tech journey.
+*This will be my personal guide and journey into **homelabbing.***
 
-This will serve as a guide for me to look back from when I make mistakes along the way, I'm thinking of it as my personal save state. 
+As someone who's been working in tech for over a decade, nothing annoys me more than unclear documentation or lacking a proper resolution path. This blog is where I’ll document my ideas and principles, the things I implement in my own tech journey.
 
-If you happen to pick something up from here, you're welcome and thank you for reading. :) 
+It’s a reference I’ll come back to when I mess something up — my personal save point.
+
+If you find anything helpful here, thank you for reading and you’re welcome to follow along.
+
+---
 
 # What is a "Homelab"?
-*"A place for you to learn stuff, break or test things."* - Some random dude on the internet. 
 
-While the statement above is true, it is quite vague. 
+> *"A place for you to learn stuff, break or test things."*  
+> — Some random dude on the internet.
 
-*A Homelab is what you make it out to be.* It is based on your personal preference, interest, needs or even your own *philosophy*. It can tackle wide variety of topics in IT. Be it Cybersecurity, Networking, Programming, Gaming and much more!
+While that statement holds truth, it's vague.
 
-I understand that nothing is much more frustrating than being shoved in to a situation where you don't know where to start. It is like starting a game without instructions on how to attack, defend or basically how to play the game itself. 
+*A Homelab is what you make it out to be.* It can reflect your interests — be it cybersecurity, networking, programming, gaming, or anything in between.
 
-So in short a "*Homelab*" for me personally, is a place where you learn, explore your curiosity in tech and possibly a place/thing where you can be experimental/creative. 
+I know how frustrating it is to get thrown into something without knowing how to begin — like starting a game without a tutorial. No attack button, no way to defend yourself.
 
-A place where you can cosplay as a SysAdmin. ***"The Dream"*** place of a person who is tasked as the family's IT. A modern day **"Man Cave".**
+So to me, a **homelab** is a space where you can:
+- Learn by doing
+- Explore your curiosity in tech
+- Be experimental and creative
 
-Now to to cut that drama, do you:
+It’s where you can cosplay as a SysAdmin.  
+It’s the **dream** of anyone who’s become their family’s default "I.T guy."  
+It’s your modern-day **man cave** (or nerd lair).
 
-Want to know what a server is and how it works?
-Want to make your own Website? 
-Want to have your own Netflix to share with friends/family? 
-Have your own Jarvis like Iron Man? 
+---
 
-Just pick your poison. Don't make it complicated. 
+# Want to start a Homelab? Ask yourself:
+
+- Want to know how servers work?
+- Want to make your own website?
+- Want your own Netflix-like setup to share with friends?
+- Want a Jarvis-like system, like Iron Man?
+
+Then just pick your poison. **Don’t overthink it.**
+
+---
 
 # Tech Stack
-*What do you currently know, what do you want to learn?* 
 
-You should be asking yourself the question above. Where are you at your current tech journey? 
+### *What do you currently know? What do you want to learn?*
 
-Lots of us are *bestowed* *upon* the title of being the **"House I.T"**. But what truly is an IT? 
+Most of us get **bestowed** with the title of *"House I.T."* But what does being in "I.T." actually mean?
 
-**I.T** is a broad profession. I'd say, it would even take a lifetime just to know everything that is coming out day by day as it is ever-changing. Something that you might learn here today, might be irrelevant by tomorrow. 
+**I.T.** is broad.  
+New tools and tech appear daily — it’s impossible to master everything. But having a solid foundation matters.
 
-But it is important to have a clear foundation. So you can ask yourself this first: 
+Start by asking:
 
-**Do you:** 
-Know how the "Internet" works? 
-Know how you are meeting your friends online? How a website works?
-Know why a game look/feel the way it does? 
-Know where and how are all these data coming or being stored? 
-..etc.
+- Do you know how the internet works?
+- How do websites appear when you click a link?
+- How do you play games with your friends online?
+- Where is all this data stored?
+- Why do some apps feel faster or better than others?
 
-Lots of topics can be covered. The Internet is more than just a "Browser" or scrolling through Social Media. 
+The internet is more than just a browser and social media feed.
 
-Your current Tech Knowledge matters for you to know where to start. Your journey might be widely different than mine. But feel free to go along with the ride. 
+Knowing where *you* stand helps you decide where to begin.  
+Your journey might look different from mine — but you’re welcome to come along for the ride.
+
+---
+
