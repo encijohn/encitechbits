@@ -1,7 +1,13 @@
+---
+title: About
+icon: fas fa-user
+order: 4
+---
 
 ```bash
 $whoami
 ```
+Henlo! 👋
 
 I'm John Clifford Cariño, a tech enthusiast and an aspiring DevOps Engineer. 
 
