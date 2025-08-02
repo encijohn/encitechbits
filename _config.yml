@@ -230,3 +230,7 @@ jekyll-archives:
 footer:
   enable: true
   custom: ""
+
+nav:
+  - title: About
+    url: /about/
