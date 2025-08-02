@@ -8,7 +8,6 @@ tags:
 image:
   path: /assets/img/header/Getting-Started-With-Homelab.png
   alt: Getting Started With Homelab
-text: "*It looks janky, but it works!*"
 ---
 # What is this?
 *This will be my personal guide / journey to **"Homelabbing".*** 
